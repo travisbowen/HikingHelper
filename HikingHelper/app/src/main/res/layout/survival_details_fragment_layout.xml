@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:textSize="30sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_name_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step1_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step2_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step3_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step4_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step5_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step6_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step7_TV"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/survival_step8_TV"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.travisbowen.hikinghelper.MainActivity">
+    <item
+        android:id="@+id/menu_google"
+        android:orderInCategory="100"
+        android:title="@string/action_google"
+        app:showAsAction="never" />
+</menu>
